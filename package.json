@@ -1,7 +1,7 @@
 {
-  "name": "bahiafm",
+  "name": "RagasiamFM",
   "version": "1.0.0",
-  "description": "BahiaFM",
+  "description": "ragasiamfm",
   "main": "index.html",
   "scripts": {
     "test": "none",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xtreemze/bahiaFM.git"
+    "url": "https://github.com/ragasiam/bahiaFM.git"
   },
   "keywords": [
     "Radio"
